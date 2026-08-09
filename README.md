@@ -178,12 +178,12 @@ flutter run
 
 | # | Name | Role / Specialization |
 | :-: | :--- | :--- |
-| 1 | **Abdelrahman Mohammed** | Computer Vision & Pipeline Architecture |
-| 2 | **Salah Eldin Mostafa** | Deep Learning & Action Recognition |
-| 3 | **Fares Mohammed** | Backend Development & API Integration |
-| 4 | **Nabil Amir** | Mobile App Development (Flutter) |
-| 5 | **Marwa Mohammed** | Tactical Analytics & Homography Mapping |
-| 6 | **Asmaa Magdy** | Dataset Preparation & Model Evaluation |
+| 1 | **Abdelrahman Mohammed** | 
+| 2 | **Salah Eldin Mostafa** |
+| 3 | **Fares Mohammed** |
+| 4 | **Nabil Amir** |
+| 5 | **Marwa Mohammed** | 
+| 6 | **Asmaa Magdy** | 
 
 ---
 
