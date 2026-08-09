@@ -176,8 +176,8 @@ flutter run
 
 ## 👥 Graduation Project Team
 
-| # | Name | Role / Specialization |
-| :-: | :--- | :--- |
+| # | Name | 
+| :-: | :--- |
 | 1 | **Abdelrahman Mohammed** | 
 | 2 | **Salah Eldin Mostafa** |
 | 3 | **Fares Mohammed** |
