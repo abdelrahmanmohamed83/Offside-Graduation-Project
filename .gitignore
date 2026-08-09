@@ -1,0 +1,101 @@
+# ==========================================
+# Offside Graduation Project - .gitignore
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+*.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# AI Models, Weights & Heavy Checkpoints
+*.pt
+*.pth
+*.onnx
+*.weights
+*.bin
+*.engine
+*.tflite
+*.pb
+*.h5
+runs/
+wandb/
+
+# Media, Outputs, and Large Datasets
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+outputs/
+processed_videos/
+temp/
+
+# Log files and Databases
+*.log
+*.sqlite
+*.sqlite3
+
+# Flutter / Mobile App
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+mobile_app/.dart_tool/
+mobile_app/.flutter-plugins
+mobile_app/.flutter-plugins-dependencies
+mobile_app/.pub-cache/
+mobile_app/.pub/
+mobile_app/build/
+mobile_app/android/app/debug/
+mobile_app/android/app/profile/
+mobile_app/android/app/release/
+mobile_app/ios/Flutter/.last_build_id
+mobile_app/app.*.symbols
+mobile_app/app.*.map.json
+
+# Operating System & Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
